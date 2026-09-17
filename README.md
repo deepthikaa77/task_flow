@@ -13,8 +13,6 @@ TaskFlow is a backend RESTful API built with Java, Spring Boot, and MySQL. The s
 
 # System Architecture & Entity Relationship Diagram
 
-GitHub renders this diagram directly from the code below:
-
 ```mermaid
 erDiagram
     USERS ||--o{ PROJECTS : "creates"
