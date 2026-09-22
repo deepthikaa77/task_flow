@@ -169,3 +169,15 @@ mvn clean spring-boot:run
 # Interactive API Documentation
 Access Swagger UI in your browser once the server is running:
 * http://localhost:8080/swagger-ui/index.html
+
+# Contributions
+Contributions are highly encouraged and always welcome. Whether you want to fix a bug, add a new feature, or improve the documentation, your help is appreciated.
+
+To contribute to this project:
+* Fork the repository
+* Create a new branch for your feature or bug fix
+* Commit your changes
+* Push the branch to your fork
+* Open a pull request
+
+Beginners are entirely welcome to make their first pull request here. Feel free to open an issue to discuss a proposed change or ask questions before you start working on it.
